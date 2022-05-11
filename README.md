@@ -7,9 +7,9 @@
 
 ### Projects:
 
-- soblok (NPM Package - https://www.npmjs.com/package/soblok)
-- gempa-id-info (NPM Package - https://www.npmjs.com/package/gempa-id-info)
-- rng-randomnumbergenerator (NPM Package - https://www.npmjs.com/package/rng-randomnumbergenerator)
+- soblok (NPM Package - [NPM Page](https://www.npmjs.com/package/soblok) [Github Page](https://github.com/dep-5260/soblok.js))
+- gempa-id-info (NPM Package - [NPM Page](https://www.npmjs.com/package/gempa-id-info) [Github Page](https://github.com/dep-5260/gempa-id-info))
+- rng-randomnumbergenerator (NPM Package - [NPM Page](https://www.npmjs.com/package/rng-randomnumbergenerator) [Github Page](https://github.com/dep-5260/rng-randomnumbergenerator))
 
 ### Languages:
 
