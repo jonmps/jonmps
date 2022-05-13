@@ -15,7 +15,7 @@
 
 ### Discord:
 
-[https://lanyard.cnrad.dev/api/700531628618940498?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px](https://discord.com/users/700531628618940498)
+[![Discord](https://lanyard.cnrad.dev/api/700531628618940498?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/700531628618940498)
 
 ### Languages:
 
