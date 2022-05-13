@@ -13,6 +13,12 @@
 - gempa-id-info (NPM Package - [NPM Page](https://www.npmjs.com/package/gempa-id-info) - [Github Page](https://github.com/dep-5260/gempa-id-info))
 - rng-randomnumbergenerator (NPM Package - [NPM Page](https://www.npmjs.com/package/rng-randomnumbergenerator) - [Github Page](https://github.com/dep-5260/rng-randomnumbergenerator))
 
+### Discord:
+
+[https://lanyard.cnrad.dev/api/700531628618940498?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px](https://discord.com/users/700531628618940498)
+
 ### Languages:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dep-5260&layout=compact" />
 
 - Node.js, Javascript, Lua(u).
