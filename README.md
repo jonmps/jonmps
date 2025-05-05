@@ -5,7 +5,7 @@
 
 ### Statistics:
 
-<img src="https://github-readme-stats.vercel.app/api?username=dep-5260&&show_icons=true&title_color=ffffff&icon_color=ffff00&text_color=ffffff&bg_color=fa2925">
+<img src="https://github-readme-stats.vercel.app/api?username=jonmps&&show_icons=true&title_color=ffffff&icon_color=ffff00&text_color=ffffff&bg_color=fa2925">
 
 ### Projects:
 
@@ -19,6 +19,6 @@
 
 ### Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dep-5260&layout=compact&title_color=ffffff&icon_color=ffff00&text_color=ffffff&bg_color=fa2925" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonmps&layout=compact&title_color=ffffff&icon_color=ffff00&text_color=ffffff&bg_color=fa2925" />
 
 - Node.js, Javascript, Lua(u).
